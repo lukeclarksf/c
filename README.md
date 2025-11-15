@@ -2,4 +2,4 @@
 
 Algorithms and data structures in C.
 
-[Website](//lukeclarksfo.github.io/c/)
+[Website](//lukeclarksf.github.io/c/)
